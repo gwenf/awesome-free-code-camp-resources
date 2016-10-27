@@ -4,15 +4,16 @@
 
 ## Navigation
 
-HTML
-CSS
-jQuery
-Javascript
-React
-D3
-Node/Express
-MongoDB
-Audiobooks
+HTML <br>
+CSS <br>
+jQuery <br>
+Javascript - Beginner <br>
+Javascript - Advanced <br>
+React <br>
+D3 <br>
+Node/Express <br>
+MongoDB <br>
+Audiobooks <br>
 Other
 
 ** These are in the order that I would personally recommend them if you are just beginning or still working through the core curriculum on Free Code Camp: **
