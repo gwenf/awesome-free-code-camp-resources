@@ -2,6 +2,19 @@
 
 ### Here are some of the best resources or pieces of advice that have helped me at various stages in my learning which work very well with Free Code Camp's learning path:
 
+## Navigation
+
+HTML
+CSS
+jQuery
+Javascript
+React
+D3
+Node/Express
+MongoDB
+Audiobooks
+Other
+
 ** These are in the order that I would personally recommend them if you are just beginning or still working through the core curriculum on Free Code Camp: **
 
 1. The first and most important piece of advice I can give you is to not stress yourself out or compare yourself to others. Make a plan and work through each step one at a time. The beauty of Free Code Camp is that you can see your progress by accruing points and completing projects. There will always be people who are faster or seemingly smarter than you and can make you feel inferior. Just this morning, someone I look at as an awesome programmer who seems 100x smarter than me told me that he feels the same way when he meets other programmers. It's a completely normal feeling! If you are doubting your ability to be successful, I strongly recommend you listen to the audio book below:
