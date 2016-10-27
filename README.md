@@ -43,7 +43,8 @@ d3.js Tutorials
 If you can work through this tutorial and some of the official docs, I think you will be all set to complete the challenges in Free Code Camp for d3.
 
 
-(jQuery)[http://ilikekillnerds.com/2015/02/stop-writing-slow-javascript/]
+[jQuery](http://ilikekillnerds.com/2015/02/stop-writing-slow-javascript/)
+[might not need jquery](http://youmightnotneedjquery.com/)
 
 
 
