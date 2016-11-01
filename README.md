@@ -6,7 +6,7 @@
 
 ## Navigation
 
-General <br>
+[General](#general) <br>
 HTML <br>
 CSS <br>
 jQuery <br>
@@ -36,6 +36,7 @@ The first and most important piece of advice I can give you is to not stress you
 ## jQuery
 
 [jQuery](http://ilikekillnerds.com/2015/02/stop-writing-slow-javascript/)
+
 [might not need jquery](http://youmightnotneedjquery.com/)
 
 ## Javascript - Beginner
