@@ -7,19 +7,19 @@
 ## Navigation
 
 [General](#general) <br>
-HTML <br>
-CSS <br>
-jQuery <br>
+[HTML](#html) <br>
+[CSS](#css) <br>
+[jQuery](#jquery) <br>
 Javascript - Beginner <br>
 Javascript - Advanced <br>
 React <br>
-D3 <br>
+[D3](d3) <br>
 Node/Express <br>
-MongoDB <br>
-Audiobooks <br>
+[MongoDB](mongodb) <br>
+[Audiobooks](audiobook) <br>
 Books/eBooks <br>
-Podcasts <br>
-Other
+[Podcasts](podcasts) <br>
+[Other](other)
 
 The first and most important piece of advice I can give you is to not stress yourself out or compare yourself to others. Make a plan and work through each step one at a time. The beauty of Free Code Camp is that you can see your progress by accruing points and completing projects. There will always be people who are faster or seemingly smarter than you and can make you feel inferior. Just this morning, someone I look at as an awesome programmer who seems 100x smarter than me told me that he feels the same way when he meets other programmers. It's a completely normal feeling! If you are doubting your ability to be successful, I strongly recommend you listen to the first audio book on the list, "No Degree, No Problem".
 
