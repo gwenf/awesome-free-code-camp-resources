@@ -14,6 +14,7 @@
 [Javascript - Beginner](#javascript---beginner) <br>
 [Javascript - Advanced](#javascript---advanced) <br>
 [React](#react) <br>
+[Redux](#redux) <br>
 [D3](#d3) <br>
 [Node/Express](#nodeexpress) <br>
 [MongoDB](#mongodb) <br>
@@ -61,11 +62,33 @@ Almost every sass tutorial shows you the .scss syntax (which is now the default)
 
 ## React
 
-I think it's best to start by reading the very good React documentation and copy/pasting the example code to try out for yourself in codepen (just make sure you are using the babel preprocessor or it won't work). The docs also explain how to use the 'marked' library which is necessary for the first FCC React project. Make sure you read the section about 'thinking in react' and then go and watch the Facebook team's videos, even if you don't understand them right away.
+* Youtube Series by learncode.Academy (flux and redux)
+* Another Great Youtube Series
+* Udemy Course
+* React Developers Youtube Channel
+* I think it's best to start by reading the very good React documentation and copy/pasting the example code to try out for yourself in codepen (just make sure you are using the babel preprocessor or it won't work). The docs also explain how to use the 'marked' library which is necessary for the first FCC React project. Make sure you read the section about 'thinking in react' and then go and watch the Facebook team's videos, even if you don't understand them right away.
 This is a great list of what you should learn next and in what order.
 This video series is by far the best react/redux tutorial I have found anywhere. It is about five hours total but it is time well spent and will teach you about the how and why of React/Redux as well as how to set up projects with Webpack and hot module reloading. You might have to stop and look at the docs and google a bit, but once I was done, I was able to set up my own react project pretty well.
 To get used to working with Redux, their github page has a great examples folder you can clone and play around with on your local machine (Dan Abrimov actually pointed me in this direction while I was getting very frustrated with some of the concepts).
 Once you understand the basics, I would watch the Egghead.io Redux series by Dan Abrimov. It goes pretty fast, but it gives you a good, deeper understanding of how Redux works. You can complete the first few FCC React Projects without Redux but you pretty much need it for the more complicated projects.
+
+## Redux
+
+This is a tough one to tackle.
+
+I started learning redux about two months ago and I was really frustrated that I wasn't getting it. I messaged the creator, Dan Abrimov, and he showed me some helpful resources. I thought it might be useful to share these.
+
+This is basically an order for learning React/Redux with lots of links:
+https://github.com/markerikson/react-redux-links178
+
+And this is an examples folder on github I downloaded and played around with:
+https://github.com/reactjs/redux/tree/master/examples50
+
+Free series on Redux: https://learnredux.com/?utm_source=sendy&utm_medium=email&utm_campaign=reduxlaunch
+
+//This video compares a small application he builds in react with and without redux:
+
+//It's much easier to understand why it's useful when you start to scale an application.
 
 ## D3
 
@@ -79,6 +102,7 @@ If you can work through this tutorial and some of the official docs, I think you
 
 1. Audiobook - No Degree, No Problem by Josh Kemp
   - This is a very motivating audio book if you are teaching yourself how to code. The author talks about his journey where he landed a developer job in ~9 months of teaching himself and shares some important experiences. The book talks mostly about Ruby on Rails but is also very useful for people learning JS or any other language. I prefer the audiobook but it is also available for Kindle.
+1. Soft Skills
   
 ## Books/eBooks
 
@@ -86,7 +110,9 @@ If you can work through this tutorial and some of the official docs, I think you
   
 ## Podcasts
 
-1. Podcasts - Code Newbie (as the name implies, very noob-friendly) and Javascript Jabber (this one generally covers a little more in depth topics that you might not understand right away) are both excellent. You can scroll through the history and find the ones that interest you like I did or start from the beginning. Podcasts are amazing resources to help you learn about and keep up with current technologies as well as develop a broader understanding of the developer field.
+1. Podcasts - Code Newbie (as the name implies, very noob-friendly) 
+1. Javascript Jabber (this one generally covers a little more in depth topics that you might not understand right away)
+1. Javascript Air
 
 ## Other
 
