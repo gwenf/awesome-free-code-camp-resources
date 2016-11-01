@@ -9,7 +9,7 @@
 [General](#general) <br>
 [HTML](#html) <br>
 [CSS](#css) <br>
-[Sass](#sass)
+[Sass](#sass) <br>
 [jQuery](#jquery) <br>
 [Javascript - Beginner](#javascript---beginner) <br>
 [Javascript - Advanced](#javascript---advanced) <br>
