@@ -21,6 +21,7 @@
 [Audiobooks](#audiobook) <br>
 [Books/eBooks](#booksebooks) <br>
 [Podcasts](#podcasts) <br>
+[Youtube Channels](#youtube-channels) <br>
 [Other](#other)
 
 The first and most important piece of advice I can give you is to not stress yourself out or compare yourself to others. Make a plan and work through each step one at a time. The beauty of Free Code Camp is that you can see your progress by accruing points and completing projects. There will always be people who are faster or seemingly smarter than you and can make you feel inferior. Just this morning, someone I look at as an awesome programmer who seems 100x smarter than me told me that he feels the same way when he meets other programmers. It's a completely normal feeling! If you are doubting your ability to be successful, I strongly recommend you listen to the first audio book on the list, "No Degree, No Problem".
@@ -35,7 +36,11 @@ The first and most important piece of advice I can give you is to not stress you
 
 ## HTML
 
+
+
 ## CSS
+
+1. [Introductory CSS Topics Playlist on Youtube](https://www.youtube.com/playlist?list=PL478wQWRhpfayR-iXIUvAhcwVXKHlpFHX) - Kirupa Chinnathambi
 
 ## Sass
 
@@ -49,6 +54,7 @@ Almost every sass tutorial shows you the .scss syntax (which is now the default)
 
 ## Javascript - Beginner
 
+1. [Introduction to Javascript Playlist](https://www.youtube.com/playlist?list=PL478wQWRhpfa1aPYzB_CzhJ-vFQ7BCeZS) on Youtube - by Kirupa Chinnathambi
 1. Algorithm practice - every single company I have interviewed with (except for one) has asked me to solve various problems in JS or 'my preferred language'. Khan academy has a good introduction to solving different types of algorithms here. I have finished all the problems on Free Code Camp - some of them twice - and I now set aside time, about 30 minutes two or three times per week, to solve challenges on hackerrank.com. This has really helped my programming confidence and also given me a better understanding of coding in general since I now try to work through problems in Javascript as well as in Python or Clojure.
 
 ## Javascript - Advanced
@@ -113,6 +119,13 @@ If you can work through this tutorial and some of the official docs, I think you
 1. Podcasts - Code Newbie (as the name implies, very noob-friendly) 
 1. Javascript Jabber (this one generally covers a little more in depth topics that you might not understand right away)
 1. Javascript Air
+
+## Youtube Channels
+
+[The New Boston](https://www.youtube.com/user/thenewboston)
+[learncode.Academy](https://www.youtube.com/user/learncodeacademy)
+[DevTips](https://www.youtube.com/user/DevTipsForDesigners)
+[Kirupa Chinnathambi](https://www.youtube.com/user/kirupa)
 
 ## Other
 
