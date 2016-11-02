@@ -122,10 +122,10 @@ If you can work through this tutorial and some of the official docs, I think you
 
 ## Youtube Channels
 
-[The New Boston](https://www.youtube.com/user/thenewboston)
-[learncode.Academy](https://www.youtube.com/user/learncodeacademy)
-[DevTips](https://www.youtube.com/user/DevTipsForDesigners)
-[Kirupa Chinnathambi](https://www.youtube.com/user/kirupa)
+* [The New Boston](https://www.youtube.com/user/thenewboston)
+* [learncode.Academy](https://www.youtube.com/user/learncodeacademy)
+* [DevTips](https://www.youtube.com/user/DevTipsForDesigners)
+* [Kirupa Chinnathambi](https://www.youtube.com/user/kirupa)
 
 ## Other
 
