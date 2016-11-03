@@ -45,6 +45,7 @@ The first and most important piece of advice I can give you is to not stress you
 
 1. [Introductory CSS Topics Playlist on Youtube](https://www.youtube.com/playlist?list=PL478wQWRhpfayR-iXIUvAhcwVXKHlpFHX) - Kirupa Chinnathambi
 1. [CSS Sushi](https://flukeout.github.io/) - Very well designed game for learning CSS
+1. [Team Treehouse](https://teamtreehouse.com/) - Excellent video courses for learning CSS and Responsive Web Design
 
 ## Sass
 
@@ -59,6 +60,7 @@ Almost every sass tutorial shows you the .scss syntax (which is now the default)
 ## Javascript - Beginner
 
 1. [Introduction to Javascript Playlist](https://www.youtube.com/playlist?list=PL478wQWRhpfa1aPYzB_CzhJ-vFQ7BCeZS) on Youtube - by Kirupa Chinnathambi
+1. [Code Combat](https://codecombat.com/play/dungeon) - Game for learning javascript programming
 1. Algorithm practice - every single company I have interviewed with (except for one) has asked me to solve various problems in JS or 'my preferred language'. Khan academy has a good introduction to solving different types of algorithms here. I have finished all the problems on Free Code Camp - some of them twice - and I now set aside time, about 30 minutes two or three times per week, to solve challenges on hackerrank.com. This has really helped my programming confidence and also given me a better understanding of coding in general since I now try to work through problems in Javascript as well as in Python or Clojure.
 
 ## Javascript - Advanced
