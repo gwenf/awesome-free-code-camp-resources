@@ -36,11 +36,15 @@ The first and most important piece of advice I can give you is to not stress you
 
 ## HTML
 
-
+* [MarkSheet](http://marksheet.io/) - Teaches basic html and css for free
+* [Don't fear the internet](http://www.dontfeartheinternet.com/) - Lot's of great tutorials to simplify learning html and css
 
 ## CSS
 
+#### *some topics in html section also relevant
+
 1. [Introductory CSS Topics Playlist on Youtube](https://www.youtube.com/playlist?list=PL478wQWRhpfayR-iXIUvAhcwVXKHlpFHX) - Kirupa Chinnathambi
+1. [CSS Sushi](https://flukeout.github.io/) - Very well designed game for learning CSS
 
 ## Sass
 
@@ -112,13 +116,13 @@ If you can work through this tutorial and some of the official docs, I think you
   
 ## Books/eBooks
 
-1. Read this book - The Pragmatic Programmer, by Andrew Hunt and David Thomas. This book tops most bloggers lists of 'must reads' for programmers and for good reason: it's packed with useful information that can take your coding to the next level. Unfortunately it's not available in audiobook format but can be purchased in paperback or for Kindle.
+1. [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X), by Andrew Hunt and David Thomas. This book tops most bloggers lists of 'must reads' for programmers and for good reason: it's packed with useful information that can take your coding to the next level. Unfortunately it's not available in audiobook format but can be purchased in paperback or for Kindle.
   
 ## Podcasts
 
-1. Podcasts - Code Newbie (as the name implies, very noob-friendly) 
-1. Javascript Jabber (this one generally covers a little more in depth topics that you might not understand right away)
-1. Javascript Air
+1. [Code Newbie](http://www.codenewbie.org/podcast) - as the name implies, very noob-friendly 
+1. [Javascript Jabber](https://devchat.tv/js-jabber) - this one generally covers a little more in depth topics and has a vast library of episodes on cutting edge tech
+1. [Javascript Air](https://javascriptair.com/)
 
 ## Youtube Channels
 
