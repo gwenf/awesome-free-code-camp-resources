@@ -2,7 +2,7 @@
 
 ## still working on editing this list, adding links and navigation.
 
-### Here are some of the best resources or pieces of advice that have helped me at various stages in my learning which work very well with Free Code Camp's learning path:
+### Here are some of the best resources or pieces of advice that have helped me at various stages in my learning which work very well with [Free Code Camp](https://www.freecodecamp.com/)'s learning path:
 
 ## Navigation
 
