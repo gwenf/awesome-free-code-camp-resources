@@ -1,6 +1,5 @@
-**under construction**
+# **under construction**
 
-## still working on editing this list, adding links and navigation.
 
 ### Here are some of the best resources or pieces of advice that have helped me at various stages in my learning which work very well with [Free Code Camp](https://www.freecodecamp.com/)'s learning path:
 
@@ -23,8 +22,6 @@
 [Podcasts](#podcasts) <br>
 [Youtube Channels](#youtube-channels) <br>
 [Other](#other)
-
-The first and most important piece of advice I can give you is to not stress yourself out or compare yourself to others. Make a plan and work through each step one at a time. The beauty of Free Code Camp is that you can see your progress by accruing points and completing projects. There will always be people who are faster or seemingly smarter than you and can make you feel inferior. Just this morning, someone I look at as an awesome programmer who seems 100x smarter than me told me that he feels the same way when he meets other programmers. It's a completely normal feeling! If you are doubting your ability to be successful, I strongly recommend you listen to the first audio book on the list, "No Degree, No Problem".
 
 ## General
 
@@ -86,19 +83,17 @@ Once you understand the basics, I would watch the Egghead.io Redux series by Dan
 
 ## Redux
 
-This is basically an order for learning React/Redux with lots of links:
-https://github.com/markerikson/react-redux-links178
-
-And this is an examples folder on github I downloaded and played around with:
-https://github.com/reactjs/redux/tree/master/examples50
-
-Free series on Redux: https://learnredux.com/?utm_source=sendy&utm_medium=email&utm_campaign=reduxlaunch
+* [Lot's of React/Redux Links](https://github.com/markerikson/react-redux-links178)
+* [Redux Examples on Github](https://github.com/reactjs/redux/tree/master/examples50)
+* [Free series on Redux](https://learnredux.com/?utm_source=sendy&utm_medium=email&utm_campaign=reduxlaunch)
 
 ## D3
 
 If you can work through this tutorial and some of the official docs, I think you will be all set to complete the challenges in Free Code Camp for d3.
 
 ## Node/Express
+
+* [The New Boston Node Playlist](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_) - Youtube
 
 ## MongoDB
 
@@ -131,4 +126,6 @@ If you can work through this tutorial and some of the official docs, I think you
 1. It's also important to learn git and the command line. Here is a good resource that takes you step by step through learning git and also check out Learn the Command Line the Hard Way by David Shaw.
 
 
-If you need any additional motivation, have any questions, or just want to give me some feedback, e-mail me: gwenfaraday@gmail.com.
+If you have any questions, suggestions, or feedback, e-mail me: 
+
+*gwenfaraday@gmail.com.*
