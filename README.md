@@ -12,6 +12,7 @@
 [jQuery](#jquery) <br>
 [Javascript - Beginner](#javascript---beginner) <br>
 [Javascript - Advanced](#javascript---advanced) <br>
+[Javascript - Algorithms](#javascript---algorithms) <br>
 [React](#react) <br>
 [Redux](#redux) <br>
 [D3](#d3) <br>
@@ -68,6 +69,8 @@ Almost every sass tutorial shows you the .scss syntax (which is now the default)
 1. Understand the 'this' keyword. Read this article.
 1. Learn Functional Programming. Immutability, closures, pure vs impure functions, lists, etc. - these are extremely important concepts to understand as a programmer! I highly recommend Front End Master's course on Functional Programming Lite. Once you work through that course, they also have several more advanced courses on Advanced Functional Programming, Asynchronous Javascript, and Coercion that are all quite good as well. The subscription is $39/month and worth every penny.
 1. ES6/ES2015. It's important to learn all the updates that are currently being implemented in JS. Here is a good podcast about the history of Javascript leading up to ES6 by Brendan Eich (the creator of JS) to give you a good understanding about the languages history and future. Also, here is a two-video series that gives a good overview of the new features in ES2015 and another awesome video covering generators.
+
+## Javascript - Algorithms
 
 ## React
 
