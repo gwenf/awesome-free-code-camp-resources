@@ -126,6 +126,6 @@ If you can work through this tutorial and some of the official docs, I think you
 1. It's also important to learn git and the command line. Here is a good resource that takes you step by step through learning git and also check out Learn the Command Line the Hard Way by David Shaw.
 
 
-If you have any questions, suggestions, or feedback, e-mail me: 
+### If you have any questions, suggestions, or feedback, e-mail me: 
 
 *gwenfaraday@gmail.com.*
