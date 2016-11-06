@@ -59,7 +59,6 @@ Almost every sass tutorial shows you the .scss syntax (which is now the default)
 
 1. [Introduction to Javascript Playlist](https://www.youtube.com/playlist?list=PL478wQWRhpfa1aPYzB_CzhJ-vFQ7BCeZS) on Youtube - by Kirupa Chinnathambi
 1. [Code Combat](https://codecombat.com/play/dungeon) - Game for learning javascript programming
-1. Algorithm practice - every single company I have interviewed with (except for one) has asked me to solve various problems in JS or 'my preferred language'. Khan academy has a good introduction to solving different types of algorithms here. I have finished all the problems on Free Code Camp - some of them twice - and I now set aside time, about 30 minutes two or three times per week, to solve challenges on hackerrank.com. This has really helped my programming confidence and also given me a better understanding of coding in general since I now try to work through problems in Javascript as well as in Python or Clojure.
 
 ## Javascript - Advanced
 
@@ -71,6 +70,9 @@ Almost every sass tutorial shows you the .scss syntax (which is now the default)
 1. ES6/ES2015. It's important to learn all the updates that are currently being implemented in JS. Here is a good podcast about the history of Javascript leading up to ES6 by Brendan Eich (the creator of JS) to give you a good understanding about the languages history and future. Also, here is a two-video series that gives a good overview of the new features in ES2015 and another awesome video covering generators.
 
 ## Javascript - Algorithms
+
+1. Khan academy has a good [introduction to solving different types of algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
+1. [hackerrank.com lets you solve algorithms in multiple languages, from beginner to advanced](https://www.hackerrank.com/)
 
 ## React
 
