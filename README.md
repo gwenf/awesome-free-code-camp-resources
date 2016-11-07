@@ -53,6 +53,8 @@
 
 ## jQuery
 
+* [Try jQuery Free on Code School](https://www.codeschool.com/courses/try-jquery)
+
 [jQuery](http://ilikekillnerds.com/2015/02/stop-writing-slow-javascript/)
 
 [might not need jquery](http://youmightnotneedjquery.com/) - Good for learning what goes on under the hood in jQuery and understanding if you need to use in your project it or not.
