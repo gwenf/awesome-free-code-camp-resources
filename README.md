@@ -47,7 +47,8 @@
 
 ## Sass
 
-Almost every sass tutorial shows you the .scss syntax (which is now the default) with curly braces and semi-colons. I personally like cleaner, indented syntax with no semi-colons but it is hard to find up-to-date tutorials for it. I recommend learning .scss first here with this good crash course and then learning the indented .sass syntax by reading this.
+* [Great Sass video crash course](https://www.youtube.com/playlist?list=PLriKzYyLb28nvORWgaD0hAbBcJUcsxy16) - Youtube
+* [Overview of Sass Indented Syntax](http://sass-lang.com/documentation/file.INDENTED_SYNTAX.html)
 
 ## jQuery
 
