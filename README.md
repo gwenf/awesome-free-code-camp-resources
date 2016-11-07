@@ -49,6 +49,7 @@
 
 * [Great Sass video crash course](https://www.youtube.com/playlist?list=PLriKzYyLb28nvORWgaD0hAbBcJUcsxy16) - Youtube
 * [Overview of Sass Indented Syntax](http://sass-lang.com/documentation/file.INDENTED_SYNTAX.html)
+* [The Sass Way](http://marksheet.io/sass-scss-less.html) - compares Sass, SCSS, and Less
 
 ## jQuery
 
