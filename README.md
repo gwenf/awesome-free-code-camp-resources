@@ -7,7 +7,8 @@
 
 [General](#general) <br>
 [HTML](#html) <br>
-[CSS](#css) <br>
+[CSS - Beginner](#css---beginner) <br>
+[CSS - Intermediate](#css---intermediate) <br>
 [Sass](#sass) <br>
 [jQuery](#jquery) <br>
 [Javascript - Beginner](#javascript---beginner) <br>
@@ -37,13 +38,17 @@
 * [MarkSheet](http://marksheet.io/) - Teaches basic html and css for free
 * [Don't fear the internet](http://www.dontfeartheinternet.com/) - Lot's of great tutorials to simplify learning html and css
 
-## CSS
+## CSS - Beginner
 
 #### *some topics in html section also relevant
 
 1. [Introductory CSS Topics Playlist on Youtube](https://www.youtube.com/playlist?list=PL478wQWRhpfayR-iXIUvAhcwVXKHlpFHX) - Kirupa Chinnathambi
 1. [CSS Sushi](https://flukeout.github.io/) - Very well designed game for learning CSS
 1. [Team Treehouse](https://teamtreehouse.com/) - Excellent video courses for learning CSS and Responsive Web Design
+
+## CSS - Intermediate
+
+*coming soon
 
 ## Sass
 
