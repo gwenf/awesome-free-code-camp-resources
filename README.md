@@ -48,7 +48,7 @@
 
 ## CSS - Intermediate
 
-*coming soon
+* [Email Course for CSS Animations](https://cssanimation.rocks/courses/animation-101/) - Pay what you want, 4-weeks
 
 ## Sass
 
@@ -73,6 +73,9 @@
 ## Javascript - Advanced
 
 1. [Javascript is weird video series](https://www.youtube.com/playlist?list=PLoYCgNOIyGABI011EYc-avPOsk1YsMUe_) - Youtube
+1. [You don't know JS books](https://github.com/getify/You-Dont-Know-JS)
+1. [Intermediate and Advanced JS Topics on Front End Masters](https://frontendmasters.com/)
+1. [Advanced JS on Pluralsight](https://www.pluralsight.com/courses/advanced-javascript)
 1. Learn good programming techniques and fundamentals. Here is a video series by learncode.Academy on Modular Programming.
 1. Understand how scope works in JavaScript. Read the MDN documentation on lexical scoping here and try the examples in Codepen or JSFiddle. Here is an article on lexical scoping that's also pretty good and easy to understand.
 1. Know the different ways to create objects and how prototypes work. I recommend this YouTube Video to understand the basics and then watching this series on Front End Master's to understand more about objects.
@@ -144,8 +147,9 @@ If you can work through this tutorial and some of the official docs, I think you
 
 ## Other
 
-1. [Learn the Command Line the Hard Way](https://learnpythonthehardway.org/book/appendixa.html) by David Shaw
-1. [Git Immersion](http://gitimmersion.com/)
+* [Learn the Command Line the Hard Way](https://learnpythonthehardway.org/book/appendixa.html) by David Shaw
+* [Git Immersion](http://gitimmersion.com/)
+* Learn the developer tools
 
 <hr>
 
