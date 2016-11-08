@@ -55,7 +55,7 @@
 
 * [Try jQuery Free on Code School](https://www.codeschool.com/courses/try-jquery)
 
-#### Comparing jQuery with standard Javascript
+#### Comparing jQuery with standard Javascript:
 
 * [Stop Writing Slow Javascript](http://ilikekillnerds.com/2015/02/stop-writing-slow-javascript/) - Article
 * [might not need jquery](http://youmightnotneedjquery.com/) - Good for learning what goes on under the hood in jQuery and understanding if you need to use in your project it or not.
