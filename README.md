@@ -30,7 +30,7 @@
 1. **Attend Meetups** - I think it is great to start going to meet-ups as soon as possible. You can go to technology-specific ones like NodeJS or ReactJS or some more beginner-friendly ones like Girl Develop It and Free Code Camp Meetups. You will probably feel out of place at first and sometimes you might not understand what is going on in the presentation. It might take some time
 1. **Create Anki Decks for each topic** (e.g. HTML, JS-functions, JS-terms, etc.) and keep adding to them. Here are some starter decks I have uploaded for JS and Sass (I am still working on sorting out all my enormous, disorganized decks of cards so I will keep adding and uploading more). Every time I hear a new term on a podcast or meet-up or blog or anywhere else I write it down in an Evernote file and then add it to my decks when I get home.
 1. **Start following industry thought leaders.** Some of my favorites are: Quincy Larson, Scott Moss(Angular/Node), Henrik Joretag, Kyle Simpson, and Dan Abrimov(React/Redux)
-1. **Get involved in your local FCC meetups or any other meetups.** This could be by helping to organize or volunteering as a speaker, etc. Try to become someone everyone recognizes in the local coding community.
+1. **Get involved in your local FCC meetups or other coding meetups.** This could be by helping to organize or volunteering as a speaker, etc. Try to become someone everyone recognizes in the local coding community.
 
 ## HTML
 
@@ -104,8 +104,12 @@ If you can work through this tutorial and some of the official docs, I think you
 ## Node/Express
 
 * [The New Boston Node Playlist](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_) - Youtube
+* [Intro to Node Playlist by learncode.Academy](https://www.youtube.com/playlist?list=PLoYCgNOIyGAACzU6GliHJDp4kmOw3NFsh) - Youtube
+* [Intro to Node Course](https://www.udemy.com/the-complete-node-js-developer-course) - Udemy, Paid
 
 ## MongoDB
+
+* [MongoDB University](https://university.mongodb.com/) - Lot's of free follow-along courses
 
 ## Audiobooks
 
@@ -133,8 +137,10 @@ If you can work through this tutorial and some of the official docs, I think you
 
 ## Other
 
-1. It's also important to learn git and the command line. Here is a good resource that takes you step by step through learning git and also check out Learn the Command Line the Hard Way by David Shaw.
+1. [Learn the Command Line the Hard Way](https://learnpythonthehardway.org/book/appendixa.html) by David Shaw
+1. [Git Immersion](http://gitimmersion.com/)
 
+<hr>
 
 ### If you have any questions, suggestions, or feedback, e-mail me: 
 
