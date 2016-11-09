@@ -1,4 +1,4 @@
-# **under construction**
+# *under construction* If you have any suggestions, please PR or get in touch with me: gwenfaraday@gmail.com
 
 
 ### Here are some of the best resources or pieces of advice that have helped me at various stages in my learning which work very well with [Free Code Camp](https://www.freecodecamp.com/)'s learning path:
@@ -76,7 +76,7 @@
 1. [You don't know JS books](https://github.com/getify/You-Dont-Know-JS)
 1. [Intermediate and Advanced JS Topics on Front End Masters](https://frontendmasters.com/)
 1. [Advanced JS on Pluralsight](https://www.pluralsight.com/courses/advanced-javascript)
-1. Learn good programming techniques and fundamentals. Here is a video series by learncode.Academy on Modular Programming.
+1. [Video series by learncode.Academy on Modular Programming](https://www.youtube.com/playlist?list=PLoYCgNOIyGABs-wDaaxChu82q_xQgUb4f) - Youtube
 1. Understand how scope works in JavaScript. Read the MDN documentation on lexical scoping here and try the examples in Codepen or JSFiddle. Here is an article on lexical scoping that's also pretty good and easy to understand.
 1. Know the different ways to create objects and how prototypes work. I recommend this YouTube Video to understand the basics and then watching this series on Front End Master's to understand more about objects.
 1. Understand the 'this' keyword. Read this article.
