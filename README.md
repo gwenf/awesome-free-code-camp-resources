@@ -39,6 +39,7 @@
 
 * [MarkSheet](http://marksheet.io/) - Teaches basic html and css for free
 * [Don't fear the internet](http://www.dontfeartheinternet.com/) - Lot's of great tutorials to simplify learning html and css
+* [Great book for learning HTML and CSS](http://www.htmlandcssbook.com/)
 
 ## CSS - Beginner
 
