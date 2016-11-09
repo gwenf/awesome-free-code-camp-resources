@@ -1,7 +1,9 @@
-# *under construction* If you have any suggestions, please PR or get in touch with me: gwenfaraday@gmail.com
+# *under construction* 
+
+## If you have any suggestions, please PR or get in touch with me: gwenfaraday@gmail.com
 
 
-### Here are some of the best resources or pieces of advice that have helped me at various stages in my learning which work very well with [Free Code Camp](https://www.freecodecamp.com/)'s learning path:
+### Here are some of the best resources or pieces of advice that may be helpful while working through [Free Code Camp](https://www.freecodecamp.com/)'s learning path:
 
 ## Navigation
 
