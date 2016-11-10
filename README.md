@@ -113,6 +113,8 @@ Once you understand the basics, I would watch the Egghead.io Redux series by Dan
 
 If you can work through this tutorial and some of the official docs, I think you will be all set to complete the challenges in Free Code Camp for d3.
 
+* [D3 Tips and Tricks](https://leanpub.com/D3-Tips-and-Tricks/read) - Book, Slightly past beginner level
+
 ## Node/Express
 
 * [The New Boston Node Playlist](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_) - Youtube
