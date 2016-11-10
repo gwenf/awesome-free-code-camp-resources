@@ -126,20 +126,21 @@ If you can work through this tutorial and some of the official docs, I think you
 
 ## Audiobooks
 
-1. [No Degree, No Problem](https://www.amazon.com/No-Degree-Problem/dp/B00KLF48QG) by Josh Kemp
+* [No Degree, No Problem](https://www.amazon.com/No-Degree-Problem/dp/B00KLF48QG) by Josh Kemp
   - This is a very motivating audio book if you are teaching yourself how to code. The author talks about his journey where he landed a developer job in ~9 months of teaching himself and shares some important experiences. The book talks mostly about Ruby on Rails but is also very useful for people learning JS or any other language. I prefer the audiobook but it is also available for Kindle.
-1. [Soft Skills](https://www.amazon.com/Soft-Skills-Software-Developers-Manual/dp/B0158SJ3EM) by John Sonmez
+* [Soft Skills](https://www.amazon.com/Soft-Skills-Software-Developers-Manual/dp/B0158SJ3EM) by John Sonmez
   
 ## Books/eBooks
 
-1. [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X), by Andrew Hunt and David Thomas. This book tops most bloggers lists of 'must reads' for programmers and for good reason: it's packed with useful information that can take your coding to the next level. Unfortunately it's not available in audiobook format but can be purchased in paperback or for Kindle.
-1. [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882), by Robert Martin
+* [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X), by Andrew Hunt and David Thomas. This book tops most bloggers lists of 'must reads' for programmers and for good reason: it's packed with useful information that can take your coding to the next level. Unfortunately it's not available in audiobook format but can be purchased in paperback or for Kindle.
+* [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882), by Robert Martin
+* [Dev Free Books](https://devfreebooks.github.io) - Tons of free e-books for developers.
   
 ## Podcasts
 
-1. [Code Newbie](http://www.codenewbie.org/podcast) - as the name implies, very noob-friendly 
-1. [Javascript Jabber](https://devchat.tv/js-jabber) - this one generally covers a little more in depth topics and has a vast library of episodes on cutting edge tech
-1. [Javascript Air](https://javascriptair.com/)
+* [Code Newbie](http://www.codenewbie.org/podcast) - as the name implies, very noob-friendly 
+* [Javascript Jabber](https://devchat.tv/js-jabber) - this one generally covers a little more in depth topics and has a vast library of episodes on cutting edge tech
+* [Javascript Air](https://javascriptair.com/)
 
 ## Youtube Channels
 
