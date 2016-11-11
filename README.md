@@ -1,6 +1,6 @@
 # *under construction* 
 
-## If you have any suggestions, please PR or get in touch with me: gwenfaraday@gmail.com
+## If you have any suggestions, please raise an issue or get in touch with me: gwenfaraday@gmail.com
 
 
 ### Here are some of the best resources or pieces of advice that may be helpful while working through [Free Code Camp](https://www.freecodecamp.com/)'s learning path:
@@ -118,9 +118,11 @@ Once you understand the basics, I would watch the Egghead.io Redux series by Dan
 
 ## D3
 
-If you can work through this tutorial and some of the official docs, I think you will be all set to complete the challenges in Free Code Camp for d3.
-
+* [Official Docs for D3](https://github.com/d3/d3/wiki) - Some good examples
+* [Data Visualization with D3](https://www.udacity.com/course/data-visualization-and-d3js--ud507) - Udacity, Free Course
 * [D3 Tips and Tricks](https://leanpub.com/D3-Tips-and-Tricks/read) - Book, Slightly past beginner level
+
+*Teamtreehouse and Frontendmasters also have decent intro to D3 courses.
 
 ## Node/Express
 
