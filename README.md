@@ -80,11 +80,18 @@
 1. [Intermediate and Advanced JS Topics on Front End Masters](https://frontendmasters.com/)
 1. [Advanced JS on Pluralsight](https://www.pluralsight.com/courses/advanced-javascript)
 1. [Video series by learncode.Academy on Modular Programming](https://www.youtube.com/playlist?list=PLoYCgNOIyGABs-wDaaxChu82q_xQgUb4f) - Youtube
-1. Understand how scope works in JavaScript. Read the MDN documentation on lexical scoping here and try the examples in Codepen or JSFiddle. Here is an article on lexical scoping that's also pretty good and easy to understand.
+1. [Read the MDN documentation on lexical scope](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
 1. Know the different ways to create objects and how prototypes work. I recommend this YouTube Video to understand the basics and then watching this series on Front End Master's to understand more about objects.
 1. Understand the 'this' keyword. Read this article.
 1. Learn Functional Programming. Immutability, closures, pure vs impure functions, lists, etc. - these are extremely important concepts to understand as a programmer! I highly recommend Front End Master's course on Functional Programming Lite. Once you work through that course, they also have several more advanced courses on Advanced Functional Programming, Asynchronous Javascript, and Coercion that are all quite good as well. The subscription is $39/month and worth every penny.
 1. ES6/ES2015. It's important to learn all the updates that are currently being implemented in JS. Here is a good podcast about the history of Javascript leading up to ES6 by Brendan Eich (the creator of JS) to give you a good understanding about the languages history and future. Also, here is a two-video series that gives a good overview of the new features in ES2015 and another awesome video covering generators.
+
+### Ajax
+
+* https://learn.jquery.com/ajax/11
+* http://www.tutorialspoint.com/ajax/5
+* https://developer.mozilla.org/en/docs/AJAX7
+* http://webdesign.tutsplus.com/tutorials/a-beginners-guide-to-ajax-with-jquery--cms-251268
 
 ## Javascript - Algorithms
 
@@ -137,6 +144,7 @@ If you can work through this tutorial and some of the official docs, I think you
 * [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X), by Andrew Hunt and David Thomas. This book tops most bloggers lists of 'must reads' for programmers and for good reason: it's packed with useful information that can take your coding to the next level. Unfortunately it's not available in audiobook format but can be purchased in paperback or for Kindle.
 * [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882), by Robert Martin
 * [Dev Free Books](https://devfreebooks.github.io) - Tons of free e-books for developers.
+* [Free Javascript Books](http://jsbooks.revolunet.com/)
   
 ## Podcasts
 
