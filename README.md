@@ -84,7 +84,7 @@
 1. [Basics of Objects and Prototypes in Javascript](https://www.youtube.com/watch?v=xizFJHKHdHw)
 1. [Series on Front End Master's to understand more about objects](https://frontendmasters.com/courses/advanced-javascript)
 1. Understand the 'this' keyword. Read this article.
-1. Learn Functional Programming. Immutability, closures, pure vs impure functions, lists, etc. - these are extremely important concepts to understand as a programmer! I highly recommend Front End Master's course on Functional Programming Lite. Once you work through that course, they also have several more advanced courses on Advanced Functional Programming, Asynchronous Javascript, and Coercion that are all quite good as well. The subscription is $39/month and worth every penny.
+1. Learn Functional Programming. Immutability, closures, pure vs impure functions, lists, etc.
 1. ES6/ES2015. It's important to learn all the updates that are currently being implemented in JS. Here is a good podcast about the history of Javascript leading up to ES6 by Brendan Eich (the creator of JS) to give you a good understanding about the languages history and future. Also, here is a two-video series that gives a good overview of the new features in ES2015 and another awesome video covering generators.
 
 ### Ajax
@@ -108,8 +108,6 @@
 * I think it's best to start by reading the very good React documentation and copy/pasting the example code to try out for yourself in codepen (just make sure you are using the babel preprocessor or it won't work). The docs also explain how to use the 'marked' library which is necessary for the first FCC React project. Make sure you read the section about 'thinking in react' and then go and watch the Facebook team's videos, even if you don't understand them right away.
 
 This video series is by far the best react/redux tutorial I have found anywhere. It is about five hours total but it is time well spent and will teach you about the how and why of React/Redux as well as how to set up projects with Webpack and hot module reloading. You might have to stop and look at the docs and google a bit, but once I was done, I was able to set up my own react project pretty well.
-To get used to working with Redux, their github page has a great examples folder you can clone and play around with on your local machine (Dan Abrimov actually pointed me in this direction while I was getting very frustrated with some of the concepts).
-Once you understand the basics, I would watch the Egghead.io Redux series by Dan Abrimov. It goes pretty fast, but it gives you a good, deeper understanding of how Redux works. You can complete the first few FCC React Projects without Redux but you pretty much need it for the more complicated projects.
 
 ## Redux
 
