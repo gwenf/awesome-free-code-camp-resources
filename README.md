@@ -85,8 +85,8 @@
 1. [Series on Front End Master's to understand more about objects](https://frontendmasters.com/courses/advanced-javascript)
 1. Understand the 'this' keyword. Read this article.
 1. Learn Functional Programming. Immutability, closures, pure vs impure functions, lists, etc.
-1. ES6/ES2015. It's important to learn all the updates that are currently being implemented in JS. Here is a good podcast about the history of Javascript leading up to ES6 by Brendan Eich (the creator of JS) to give you a good understanding about the languages history and future. Also, here is a two-video series that gives a good overview of the new features in ES2015 and another awesome video covering generators.
-
+1. ES6/ES2015. It's important to learn all the updates that are currently being implemented in JS. 
+1. [History of Javascript leading up to ES6](https://devchat.tv/js-jabber/124-jsj-the-origin-of-javascript-with-brendan-eich) - Podcast with Brendan Eich (the creator of JS) 
 ### Ajax
 
 * https://learn.jquery.com/ajax/11
