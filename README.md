@@ -164,7 +164,7 @@ This video series is by far the best react/redux tutorial I have found anywhere.
 
 * [Learn the Command Line the Hard Way](https://learnpythonthehardway.org/book/appendixa.html) by David Shaw
 * [Git Immersion](http://gitimmersion.com/)
-* Learn the developer tools
+* [Learn the developer tools](https://www.codeschool.com/courses/discover-devtools)
 
 <hr>
 
