@@ -86,7 +86,8 @@
 1. Understand the 'this' keyword. Read this article.
 1. Learn Functional Programming. Immutability, closures, pure vs impure functions, lists, etc.
 1. ES6/ES2015. It's important to learn all the updates that are currently being implemented in JS. 
-1. [History of Javascript leading up to ES6](https://devchat.tv/js-jabber/124-jsj-the-origin-of-javascript-with-brendan-eich) - Podcast with Brendan Eich (the creator of JS) 
+1. [History of Javascript leading up to ES6](https://devchat.tv/js-jabber/124-jsj-the-origin-of-javascript-with-brendan-eich) - Podcast with Brendan Eich (the creator of JS)
+
 ### Ajax
 
 * https://learn.jquery.com/ajax/11
@@ -101,13 +102,10 @@
 
 ## React
 
+* Read the [docs](https://facebook.github.io/react/docs/hello-world.html) and the [section about 'thinking in react'](https://facebook.github.io/react/docs/thinking-in-react.html) and then go and watch the Facebook team's videos, even if you don't understand them right away.
 * [React/Flux](https://www.youtube.com/playlist?list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b) and [React/Redux](https://www.youtube.com/playlist?list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt) YouTube courses - both by learncode.Academy
-* Another Great Youtube Series
 * [Udemy Course](https://www.udemy.com/react-redux/) - by Stephen Grider
 * [Facebook Developers have several React Playlists](https://www.youtube.com/user/FacebookDevelopers/playlists) - Youtube
-* I think it's best to start by reading the very good React documentation and copy/pasting the example code to try out for yourself in codepen (just make sure you are using the babel preprocessor or it won't work). The docs also explain how to use the 'marked' library which is necessary for the first FCC React project. Make sure you read the section about 'thinking in react' and then go and watch the Facebook team's videos, even if you don't understand them right away.
-
-This video series is by far the best react/redux tutorial I have found anywhere. It is about five hours total but it is time well spent and will teach you about the how and why of React/Redux as well as how to set up projects with Webpack and hot module reloading. You might have to stop and look at the docs and google a bit, but once I was done, I was able to set up my own react project pretty well.
 
 ## Redux
 
