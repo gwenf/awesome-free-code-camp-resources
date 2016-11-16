@@ -111,7 +111,7 @@
 
 * [Lot's of React/Redux Links](https://github.com/markerikson/react-redux-links178)
 * [Redux Examples on Github](https://github.com/reactjs/redux/tree/master/examples50)
-* [Free series on Redux](https://learnredux.com/?utm_source=sendy&utm_medium=email&utm_campaign=reduxlaunch)
+* [Free video series on Redux](https://learnredux.com/?utm_source=sendy&utm_medium=email&utm_campaign=reduxlaunch)
 
 ## D3
 
@@ -137,6 +137,7 @@
 * [No Degree, No Problem](https://www.amazon.com/No-Degree-Problem/dp/B00KLF48QG) by Josh Kemp
   - This is a very motivating audio book if you are teaching yourself how to code. The author talks about his journey where he landed a developer job in ~9 months of teaching himself and shares some important experiences. The book talks mostly about Ruby on Rails but is also very useful for people learning JS or any other language. I prefer the audiobook but it is also available for Kindle.
 * [Soft Skills](https://www.amazon.com/Soft-Skills-Software-Developers-Manual/dp/B0158SJ3EM) by John Sonmez
+* [The Innovators](https://www.amazon.com/Innovators-Hackers-Geniuses-Created-Revolution/dp/B00M9KICAY) by Walter Isaacson
   
 ## Books/eBooks
 
@@ -162,7 +163,7 @@
 
 * [Learn the Command Line the Hard Way](https://learnpythonthehardway.org/book/appendixa.html) by David Shaw
 * [Git Immersion](http://gitimmersion.com/)
-* [Learn the developer tools](https://www.codeschool.com/courses/discover-devtools)
+* [Learn the Chrome Developer Tools](https://www.codeschool.com/courses/discover-devtools)
 
 <hr>
 
