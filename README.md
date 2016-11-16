@@ -143,6 +143,7 @@
 
 * [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X), by Andrew Hunt and David Thomas. This book tops most bloggers lists of 'must reads' for programmers and for good reason: it's packed with useful information that can take your coding to the next level. Unfortunately it's not available in audiobook format but can be purchased in paperback or for Kindle.
 * [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882), by Robert Martin
+* [Better than College](https://www.amazon.com/Better-Than-College-Successful-Four-Year/dp/0986011908/ref=cm_cr_arp_d_product_top?ie=UTF8) by Blake Boles - How to have a successful career without a four year degree.
 * [Dev Free Books](https://devfreebooks.github.io) - Tons of free e-books for developers.
 * [More Free Javascript Books](http://jsbooks.revolunet.com/)
   
