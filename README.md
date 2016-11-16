@@ -85,7 +85,7 @@
 1. [Series on Front End Master's to understand more about objects](https://frontendmasters.com/courses/advanced-javascript)
 1. Understand the 'this' keyword. Read this article.
 1. Learn Functional Programming. Immutability, closures, pure vs impure functions, lists, etc.
-1. ES6/ES2015. It's important to learn all the updates that are currently being implemented in JS. 
+1. [ES6/ES2015 Video Series](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBhgcpA8eTYYWg7im72LgLt) - The New Boston on Youtube
 1. [History of Javascript leading up to ES6](https://devchat.tv/js-jabber/124-jsj-the-origin-of-javascript-with-brendan-eich) - Podcast with Brendan Eich (the creator of JS)
 
 ### Ajax
@@ -144,7 +144,7 @@
 * [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X), by Andrew Hunt and David Thomas. This book tops most bloggers lists of 'must reads' for programmers and for good reason: it's packed with useful information that can take your coding to the next level. Unfortunately it's not available in audiobook format but can be purchased in paperback or for Kindle.
 * [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882), by Robert Martin
 * [Dev Free Books](https://devfreebooks.github.io) - Tons of free e-books for developers.
-* [Free Javascript Books](http://jsbooks.revolunet.com/)
+* [More Free Javascript Books](http://jsbooks.revolunet.com/)
   
 ## Podcasts
 
