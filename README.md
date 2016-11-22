@@ -45,9 +45,9 @@
 
 #### *some topics in html section also relevant
 
-1. [Introductory CSS Topics Playlist on Youtube](https://www.youtube.com/playlist?list=PL478wQWRhpfayR-iXIUvAhcwVXKHlpFHX) - Kirupa Chinnathambi
-1. [CSS Sushi](https://flukeout.github.io/) - Very well designed game for learning CSS
-1. [Team Treehouse](https://teamtreehouse.com/) - Excellent video courses for learning CSS and Responsive Web Design
+* [Introductory CSS Topics Playlist on Youtube](https://www.youtube.com/playlist?list=PL478wQWRhpfayR-iXIUvAhcwVXKHlpFHX) - Kirupa Chinnathambi
+* [CSS Sushi](https://flukeout.github.io/) - Very well designed game for learning CSS
+* [Team Treehouse](https://teamtreehouse.com/) - Excellent video courses for learning CSS and Responsive Web Design
 
 ## CSS - Intermediate
 
@@ -70,23 +70,23 @@
 
 ## Javascript - Beginner
 
-1. [Introduction to Javascript Playlist](https://www.youtube.com/playlist?list=PL478wQWRhpfa1aPYzB_CzhJ-vFQ7BCeZS) on Youtube - by Kirupa Chinnathambi
-1. [Code Combat](https://codecombat.com/play/dungeon) - Game for learning javascript programming
+* [Introduction to Javascript Playlist](https://www.youtube.com/playlist?list=PL478wQWRhpfa1aPYzB_CzhJ-vFQ7BCeZS) on Youtube - by Kirupa Chinnathambi
+* [Code Combat](https://codecombat.com/play/dungeon) - Game for learning javascript programming
 
 ## Javascript - Advanced
 
-1. [Javascript is weird video series](https://www.youtube.com/playlist?list=PLoYCgNOIyGABI011EYc-avPOsk1YsMUe_) - Youtube
-1. [You don't know JS books](https://github.com/getify/You-Dont-Know-JS)
-1. [Intermediate and Advanced JS Topics on Front End Masters](https://frontendmasters.com/)
-1. [Advanced JS on Pluralsight](https://www.pluralsight.com/courses/advanced-javascript)
-1. [Video series by learncode.Academy on Modular Programming](https://www.youtube.com/playlist?list=PLoYCgNOIyGABs-wDaaxChu82q_xQgUb4f) - Youtube
-1. [Read the MDN documentation on lexical scope](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
-1. [Basics of Objects and Prototypes in Javascript](https://www.youtube.com/watch?v=xizFJHKHdHw)
-1. [Series on Front End Master's to understand more about objects](https://frontendmasters.com/courses/advanced-javascript)
-1. [Understand the 'this' keyword](https://www.youtube.com/watch?v=JduQUNn7L4w) - Video by O'Reilly
-1. [Learn Functional Programming](https://www.youtube.com/watch?v=e-5obm1G_FY&t=1s) - Conference talk introducing the basics
-1. [ES6/ES2015 Video Series](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBhgcpA8eTYYWg7im72LgLt) - The New Boston on Youtube
-1. [History of Javascript leading up to ES6](https://devchat.tv/js-jabber/124-jsj-the-origin-of-javascript-with-brendan-eich) - Podcast with Brendan Eich (the creator of JS)
+* [Javascript is weird video series](https://www.youtube.com/playlist?list=PLoYCgNOIyGABI011EYc-avPOsk1YsMUe_) - Youtube
+* [You don't know JS books](https://github.com/getify/You-Dont-Know-JS)
+* [Intermediate and Advanced JS Topics on Front End Masters](https://frontendmasters.com/)
+* [Advanced JS on Pluralsight](https://www.pluralsight.com/courses/advanced-javascript)
+* [Video series by learncode.Academy on Modular Programming](https://www.youtube.com/playlist?list=PLoYCgNOIyGABs-wDaaxChu82q_xQgUb4f) - Youtube
+* [Read the MDN documentation on lexical scope](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
+* [Basics of Objects and Prototypes in Javascript](https://www.youtube.com/watch?v=xizFJHKHdHw)
+* [Series on Front End Master's to understand more about objects](https://frontendmasters.com/courses/advanced-javascript)
+* [Understand the 'this' keyword](https://www.youtube.com/watch?v=JduQUNn7L4w) - Video by O'Reilly
+* [Learn Functional Programming](https://www.youtube.com/watch?v=e-5obm1G_FY&t=1s) - Conference talk introducing the basics
+* [ES6/ES2015 Video Series](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBhgcpA8eTYYWg7im72LgLt) - The New Boston on Youtube
+* [History of Javascript leading up to ES6](https://devchat.tv/js-jabber/124-jsj-the-origin-of-javascript-with-brendan-eich) - Podcast with Brendan Eich (the creator of JS)
 
 ### Ajax
 
@@ -97,8 +97,8 @@
 
 ## Javascript - Algorithms
 
-1. Khan academy has a good [introduction to solving different types of algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
-1. [hackerrank.com lets you solve algorithms in multiple languages, from beginner to advanced](https://www.hackerrank.com/)
+* Khan academy has a good [introduction to solving different types of algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
+* [hackerrank.com lets you solve algorithms in multiple languages, from beginner to advanced](https://www.hackerrank.com/)
 
 ## React
 
