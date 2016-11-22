@@ -83,8 +83,8 @@
 1. [Read the MDN documentation on lexical scope](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
 1. [Basics of Objects and Prototypes in Javascript](https://www.youtube.com/watch?v=xizFJHKHdHw)
 1. [Series on Front End Master's to understand more about objects](https://frontendmasters.com/courses/advanced-javascript)
-1. Understand the 'this' keyword.
-1. Learn Functional Programming. Immutability, closures, pure vs impure functions, lists, etc.
+1. [Understand the 'this' keyword](https://www.youtube.com/watch?v=JduQUNn7L4w) - Video by O'Reilly
+1. [Learn Functional Programming](https://www.youtube.com/watch?v=e-5obm1G_FY&t=1s) - Conference talk introducing the basics
 1. [ES6/ES2015 Video Series](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBhgcpA8eTYYWg7im72LgLt) - The New Boston on Youtube
 1. [History of Javascript leading up to ES6](https://devchat.tv/js-jabber/124-jsj-the-origin-of-javascript-with-brendan-eich) - Podcast with Brendan Eich (the creator of JS)
 
