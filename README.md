@@ -98,6 +98,7 @@
 
 * Khan academy has a good [introduction to solving different types of algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
 * [hackerrank.com lets you solve algorithms in multiple languages, from beginner to advanced](https://www.hackerrank.com/)
+* [Project Euler](https://projecteuler.net/) - More advanced and language agnostic
 
 ## React
 
@@ -165,6 +166,7 @@
 * [Git Immersion](http://gitimmersion.com/)
 * [Git-It](http://jlord.us/git-it/index.html) - Simple step-by-step command line guide for learning git
 * [Learn the Chrome Developer Tools](https://www.codeschool.com/courses/discover-devtools)
+* [Learn SQL Interactive Tutorials](https://sqlbolt.com/)
 
 <hr>
 
