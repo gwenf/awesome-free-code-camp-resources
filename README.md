@@ -168,8 +168,11 @@
   * [Learn the Command Line the Hard Way](https://learnpythonthehardway.org/book/appendixa.html) by David Shaw
   * [Conquering the Command Line](http://conqueringthecommandline.com/book)
 
-* [Git Immersion](http://gitimmersion.com/)
-* [Git-It](http://jlord.us/git-it/index.html) - Simple step-by-step command line guide for learning git
+* Git:
+
+  * [Git Immersion](http://gitimmersion.com/)
+  * [Git-It](http://jlord.us/git-it/index.html) - Simple step-by-step command line guide for learning git
+
 * [Learn the Chrome Developer Tools](https://www.codeschool.com/courses/discover-devtools)
 * [Learn SQL Interactive Tutorials](https://sqlbolt.com/)
 
