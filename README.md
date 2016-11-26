@@ -170,11 +170,17 @@
 
 * Git:
 
+  * [Interactive Git Tutorial](https://try.github.io) - by Github
   * [Git Immersion](http://gitimmersion.com/)
   * [Git-It](http://jlord.us/git-it/index.html) - Simple step-by-step command line guide for learning git
 
-* [Learn the Chrome Developer Tools](https://www.codeschool.com/courses/discover-devtools)
-* [Learn SQL Interactive Tutorials](https://sqlbolt.com/)
+* Developer Tools:
+
+  * [Learn the Chrome Developer Tools](https://www.codeschool.com/courses/discover-devtools)
+
+* Databases:
+
+  * [Learn SQL Interactive Tutorials](https://sqlbolt.com/)
 
 <hr>
 
