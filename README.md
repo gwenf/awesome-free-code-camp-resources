@@ -72,6 +72,7 @@
 
 * [Introduction to Javascript Playlist](https://www.youtube.com/playlist?list=PL478wQWRhpfa1aPYzB_CzhJ-vFQ7BCeZS) on Youtube - by Kirupa Chinnathambi
 * [Code Combat](https://codecombat.com/play/dungeon) - Game for learning javascript programming
+* [Learn Javascript in One Video](https://www.youtube.com/watch?v=fju9ii8YsGs) - Derek Banas on Youtube
 
 ## Javascript - Advanced
 
