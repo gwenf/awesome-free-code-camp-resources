@@ -61,6 +61,7 @@
 ## jQuery
 
 * [Try jQuery Free on Code School](https://www.codeschool.com/courses/try-jquery)
+* [jQuery Learning Course](https://css-tricks.com/lodge/learn-jquery/) - by CSS-Tricks
 
 #### Comparing jQuery with standard Javascript:
 
