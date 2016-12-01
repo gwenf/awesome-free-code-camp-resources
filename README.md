@@ -22,6 +22,7 @@
 [Audiobooks](#audiobook) <br>
 [Books/eBooks](#booksebooks) <br>
 [Podcasts](#podcasts) <br>
+[Javascript News](#javascript-news) <br>
 [Youtube Channels](#youtube-channels) <br>
 [Other](#other)
 
