@@ -164,6 +164,7 @@
 ## Youtube Channels
 
 * [The New Boston](https://www.youtube.com/user/thenewboston)
+* [Derek Banas](https://www.youtube.com/user/derekbanas)
 * [learncode.Academy](https://www.youtube.com/user/learncodeacademy)
 * [DevTips](https://www.youtube.com/user/DevTipsForDesigners)
 * [Kirupa Chinnathambi](https://www.youtube.com/user/kirupa)
