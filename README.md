@@ -190,6 +190,11 @@
 * Databases:
 
   * [Learn SQL Interactive Tutorials](https://sqlbolt.com/)
+  
+* Javascript Games:
+
+  * [Code Combat](https://codecombat.com/play/dungeon) - Game for learning javascript programming
+  * [Code Fights - Bots](https://codefights.com/company-bots)
 
 <hr>
 
