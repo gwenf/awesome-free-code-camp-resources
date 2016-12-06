@@ -71,6 +71,7 @@
 
 ## Javascript - Beginner
 
+* [Intro to Javascript](https://www.javascript.com) - Extremely basic interactive tutorial
 * [Introduction to Javascript Playlist](https://www.youtube.com/playlist?list=PL478wQWRhpfa1aPYzB_CzhJ-vFQ7BCeZS) on Youtube - by Kirupa Chinnathambi
 * [Code Combat](https://codecombat.com/play/dungeon) - Game for learning javascript programming
 * [Learn Javascript in One Video](https://www.youtube.com/watch?v=fju9ii8YsGs) - Derek Banas on Youtube
@@ -195,6 +196,8 @@
 
   * [Code Combat](https://codecombat.com/play/dungeon) - Game for learning javascript programming
   * [Code Fights - Bots](https://codefights.com/company-bots)
+  
+* [Links for different languages and frameworks](https://hackr.io/)
 
 <hr>
 
