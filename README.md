@@ -7,12 +7,12 @@
 
 [General](#general) <br>
 [HTML](#html) <br>
-## Styles <br>
+### Styles <br>
 [CSS - Beginner](#css---beginner) <br>
 [CSS - Intermediate](#css---intermediate) <br>
 [Flexbox](#flexbox) <br>
 [Sass](#sass) <br>
-## Javascript <br>
+### Javascript <br>
 [jQuery](#jquery) <br>
 [Javascript - Beginner](#javascript---beginner) <br>
 [Javascript - Advanced](#javascript---advanced) <br>
@@ -21,9 +21,9 @@
 [Redux](#redux) <br>
 [D3](#d3) <br>
 [Node/Express](#nodeexpress) <br>
-## Database <br>
+### Database <br>
 [MongoDB](#mongodb) <br>
-## Other Materials <br>
+### Other Materials <br>
 [Audiobooks](#audiobook) <br>
 [Books/eBooks](#booksebooks) <br>
 [Podcasts](#podcasts) <br>
