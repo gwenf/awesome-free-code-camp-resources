@@ -53,6 +53,11 @@
 * [Intermediate and Advanced CSS tutorials from MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Tutorials#Intermediate-level_CSS_tutorials)
 * [Email Course for CSS Animations](https://cssanimation.rocks/courses/animation-101/) - Pay what you want, 4-weeks
 
+## Flexbox
+
+* [Flexbox Froggy](http://flexboxfroggy.com/)
+* [Tower Defense Game](http://www.flexboxdefense.com/)
+
 ## Sass
 
 * [Great Sass video crash course](https://www.youtube.com/playlist?list=PLriKzYyLb28nvORWgaD0hAbBcJUcsxy16) - Youtube
