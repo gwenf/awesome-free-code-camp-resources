@@ -171,6 +171,7 @@
 
 ## Javascript News
 
+* [Ethical Design News](http://darkpatterns.org/)
 * [Five Minutes of Javascript](https://fivejs.codeschool.com/) - Newsletter of Current Javascript News
 
 ## Youtube Channels
