@@ -209,7 +209,7 @@
   * [Code Combat](https://codecombat.com/play/dungeon) - Game for learning javascript programming
   * [Code Fights - Bots](https://codefights.com/company-bots)
   
-* [Links for different languages and frameworks](https://hackr.io/)
+* [Links](https://hackr.io/) for different languages and frameworks
 
 <hr>
 
