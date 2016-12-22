@@ -199,6 +199,7 @@
 * Developer Tools:
 
   * [Learn the Chrome Developer Tools](https://www.codeschool.com/courses/discover-devtools)
+  * [Hands on Practice](https://github.com/jkup/mastering-chrome-devtools)
 
 * Databases:
 
