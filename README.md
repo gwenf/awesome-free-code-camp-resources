@@ -5,31 +5,31 @@
 
 ## Navigation
 
-[General](#general) <br>
-[HTML](#html) <br>
-### Styles <br>
-[CSS - Beginner](#css---beginner) <br>
-[CSS - Intermediate](#css---intermediate) <br>
-[Flexbox](#flexbox) <br>
-[Sass](#sass) <br>
-### Javascript <br>
-[jQuery](#jquery) <br>
-[Javascript - Beginner](#javascript---beginner) <br>
-[Javascript - Advanced](#javascript---advanced) <br>
-[Javascript - Algorithms](#javascript---algorithms) <br>
-[React](#react) <br>
-[Redux](#redux) <br>
-[D3](#d3) <br>
-[Node/Express](#nodeexpress) <br>
-### Database <br>
-[MongoDB](#mongodb) <br>
-### Other Materials <br>
-[Audiobooks](#audiobook) <br>
-[Books/eBooks](#booksebooks) <br>
-[Podcasts](#podcasts) <br>
-[Javascript News](#javascript-news) <br>
-[Youtube Channels](#youtube-channels) <br>
-[Other](#other)
+* [General](#general)
+* [HTML](#html)
+* __Styles__
+  * [CSS - Beginner](#css---beginner)
+  * [CSS - Intermediate](#css---intermediate)
+  * [Flexbox](#flexbox)
+  * [Sass](#sass)
+* __Javascript__
+  * [jQuery](#jquery)
+  * [Javascript - Beginner](#javascript---beginner)
+  * [Javascript - Advanced](#javascript---advanced)
+  * [Javascript - Algorithms](#javascript---algorithms)
+  * [React](#react)
+  * [Redux](#redux)
+  * [D3](#d3)
+  * [Node/Express](#nodeexpress)
+* __Database__
+  * [MongoDB](#mongodb)
+* __Other Materials__
+  * [Audiobooks](#audiobook)
+  * [Books/eBooks](#booksebooks)
+  * [Podcasts](#podcasts)
+  * [Javascript News](#javascript-news)
+  * [Youtube Channels](#youtube-channels)
+  * [Other](#other)
 
 ## General
 
