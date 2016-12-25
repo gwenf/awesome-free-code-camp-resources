@@ -153,6 +153,7 @@
   - This is a very motivating audio book if you are teaching yourself how to code. The author talks about his journey where he landed a developer job in ~9 months of teaching himself and shares some important experiences. The book talks mostly about Ruby on Rails but is also very useful for people learning JS or any other language. I prefer the audiobook but it is also available for Kindle.
 * [Soft Skills](https://www.amazon.com/Soft-Skills-Software-Developers-Manual/dp/B0158SJ3EM) by John Sonmez
 * [The Innovators](https://www.amazon.com/Innovators-Hackers-Geniuses-Created-Revolution/dp/B00M9KICAY) by Walter Isaacson
+* [Mindset](https://www.amazon.com/Mindset-New-Psychology-Success/dp/B001U5P7CK) - Cutting Edge Pychology about having the Mindset to Succeed
   
 ## Books/eBooks
 
