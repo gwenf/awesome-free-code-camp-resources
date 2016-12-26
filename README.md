@@ -212,6 +212,7 @@
   * [Code Fights - Bots](https://codefights.com/company-bots)
   
 * [Links](https://hackr.io/) for different languages and frameworks
+* Interested in learning something other than Javascript? [Check out Sololearn](https://www.sololearn.com), it's free!
 
 <hr>
 
