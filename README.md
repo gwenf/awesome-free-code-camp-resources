@@ -211,6 +211,10 @@
   * [Code Combat](https://codecombat.com/play/dungeon) - Game for learning javascript programming
   * [Code Fights - Bots](https://codefights.com/company-bots)
   
+* Computer Science:
+
+ * [Open Source Society](https://github.com/open-source-society/computer-science) - Free Computer Science Curriculum
+  
 * [Links](https://hackr.io/) for different languages and frameworks
 * Interested in learning something other than Javascript? [Check out Sololearn](https://www.sololearn.com), it's free!
 
