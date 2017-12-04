@@ -141,6 +141,7 @@
 * [The New Boston Node Playlist](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_) - Youtube
 * [Intro to Node Playlist by learncode.Academy](https://www.youtube.com/playlist?list=PLoYCgNOIyGAACzU6GliHJDp4kmOw3NFsh) - Youtube
 * [Intro to Node Course](https://www.udemy.com/the-complete-node-js-developer-course) - Udemy, Paid
+* [The Node Way](http://thenodeway.io/) - Helpful articles for understanding Node.js
 
 ## MongoDB
 
