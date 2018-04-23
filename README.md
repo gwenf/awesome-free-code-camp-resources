@@ -187,7 +187,8 @@
 
 ## Interviews
 
-* [Pramp](https://www.pramp.com/)
+* [Front-end practice interview questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+* [Pramp](https://www.pramp.com/) - Free interview practice
 
 ## Other
 
