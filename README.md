@@ -29,6 +29,7 @@
   * [Podcasts](#podcasts)
   * [Javascript News](#javascript-news)
   * [Youtube Channels](#youtube-channels)
+  * [Interviews](#interviews)
   * [Other](#other)
 
 ## General
@@ -183,6 +184,10 @@
 * [learncode.Academy](https://www.youtube.com/user/learncodeacademy)
 * [DevTips](https://www.youtube.com/user/DevTipsForDesigners)
 * [Kirupa Chinnathambi](https://www.youtube.com/user/kirupa)
+
+## Interviews
+
+* [Pramp](https://www.pramp.com/)
 
 ## Other
 
