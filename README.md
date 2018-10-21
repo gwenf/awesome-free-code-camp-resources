@@ -167,6 +167,7 @@
   
 ## Podcasts
 
+* [freeCodeCamp Podcast](https://freecodecamp.libsyn.com/)
 * [Code Newbie](http://www.codenewbie.org/podcast) - as the name implies, very noob-friendly 
 * [Javascript Jabber](https://devchat.tv/js-jabber) - this one generally covers a little more in depth topics and has a vast library of episodes on cutting edge tech
 * [Javascript Air](https://javascriptair.com/)
