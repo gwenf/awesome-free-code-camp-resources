@@ -45,7 +45,8 @@
 * [MarkSheet](http://marksheet.io/) - Teaches basic html and css for free
 * [Don't fear the internet](http://www.dontfeartheinternet.com/) - Lot's of great tutorials to simplify learning html and css
 * [Great book for learning HTML and CSS](http://www.htmlandcssbook.com/)
-*[Awesome website for Beginner](https://www.w3schools.com/html/default.asp)
+* [Website for beginner-friendly examples](https://www.w3schools.com/html/default.asp)
+
 ## CSS - Beginner
 
 #### *some topics in html section also relevant
@@ -53,7 +54,8 @@
 * [Introductory CSS Topics Playlist on Youtube](https://www.youtube.com/playlist?list=PL478wQWRhpfayR-iXIUvAhcwVXKHlpFHX) - Kirupa Chinnathambi
 * [CSS Sushi](https://flukeout.github.io/) - Very well designed game for learning CSS
 * [Team Treehouse](https://teamtreehouse.com/) - Excellent video courses for learning CSS and Responsive Web Design
-*[Awesome website for Beginner](https://www.w3schools.com/css/default.asp)
+* [Website for beginner-friendly examples](https://www.w3schools.com/css/default.asp)
+
 ## CSS - Intermediate
 
 * [Intermediate and Advanced CSS tutorials from MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Tutorials#Intermediate-level_CSS_tutorials)
@@ -87,7 +89,7 @@
 * [Introduction to Javascript Playlist](https://www.youtube.com/playlist?list=PL478wQWRhpfa1aPYzB_CzhJ-vFQ7BCeZS) on Youtube - by Kirupa Chinnathambi
 * [Code Combat](https://codecombat.com/play/dungeon) - Game for learning javascript programming
 * [Learn Javascript in One Video](https://www.youtube.com/watch?v=fju9ii8YsGs) - Derek Banas on Youtube
-*[Awesome Website for Beginner](https://www.w3schools.com/js/default.asp)
+* [Website for beginner-friendly examples](https://www.w3schools.com/js/default.asp)
 
 ## Javascript - Advanced
 
